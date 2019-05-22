@@ -16,8 +16,8 @@ def long_planeteer_calls(array)
       break
     else
     end
-    return false
   end
+  return false
 end
 
 def find_the_cheese# code an argument here
